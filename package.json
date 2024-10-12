@@ -1,0 +1,22 @@
+{
+  "name": "com.babylontoolkit.training",
+  "displayName": "AI Training Pack",
+  "version": "7.38.1",
+  "unity": "2022.3",
+  "description": "Babylon Toolkit AI Training Package",
+  "keywords": [
+    "tools",
+    "editor",
+    "toolkit",
+    "babylonjs"
+  ],
+  "category": "Editor",
+  "dependencies": {
+    "com.babylontoolkit.editor": "7.38.1"
+  },
+  "author": {
+    "name": "CODEWRX",
+    "email": "mackeyk24@gmail.com",
+    "url": "https://www.babylontoolkit.com"
+  }
+}
