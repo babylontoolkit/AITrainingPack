@@ -1,7 +1,7 @@
 {
   "name": "com.babylontoolkit.training",
   "displayName": "AI Training Pack",
-  "version": "8.5.0",
+  "version": "8.6.1",
   "unity": "2022.3",
   "description": "Babylon Toolkit AI Training Package",
   "keywords": [
@@ -12,7 +12,7 @@
   ],
   "category": "Editor",
   "dependencies": {
-    "com.babylontoolkit.editor": "8.5.0"
+    "com.babylontoolkit.editor": "8.6.1"
   },
   "author": {
     "name": "CODEWRX",
